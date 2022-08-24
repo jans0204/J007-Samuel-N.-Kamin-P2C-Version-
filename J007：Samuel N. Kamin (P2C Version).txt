@@ -1,0 +1,20 @@
+﻿J007：Samuel N. Kamin (P2C Version)
+
+下載:
+
+https://github.com/jans0204/J006-P2C---a-Pascal-to-C-translator/blob/main/J006.zip
+
+https://github.com/jans0204/J007-Samuel-N.-Kamin-P2C-Version-/blob/main/J007.zip
+
+有了 P2C 就不用安裝 Free Pascal。
+
+Kamin 還有其他版本：
+
+1. Tim Budd rewrote the interpreters in C++
+http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/lang/lisp/impl/kamin/0.html
+Kamin_Budd_interpreters.zip (2010/12/14 18:41)
+
+2. Turbo Pascal (DOSBox)
+
+3. P2C (舊版) 有些跑不出結果，J007.zip 是最後版本，然後修正 .c 的錯誤，最後結果完全一致。
+https://kamin.cs.illinois.edu/plbook/C-distr.tar.Z
